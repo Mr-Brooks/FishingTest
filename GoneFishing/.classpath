@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/core/core/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/core/core/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/core/core/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/persistJdbc/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/persistJdbc/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/persistJdbc/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/ojdbc14-10.2.0.4.0.jar/ojdbc14-10.2.0.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/spring-jdbc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/spring-dao-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/jdom-2.0.6/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/SaxonHE9-6-0-5J/saxon9he.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/misc/misc/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Arthur/Downloads/springjars/springjars/core/core/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
