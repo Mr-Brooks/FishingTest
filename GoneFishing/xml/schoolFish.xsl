@@ -3,17 +3,17 @@
 
 <xsl:output method="xml" indent="yes"/>
 
-<xsl:template match="/">
+<xsl:template match="/Fish">
   <SchoolOfApplicants>
 	<Header>
 		<CurrentDate><xsl:value-of select="date" /></CurrentDate>
-		<Records><xsl:value-of select="records" /></Records>
+		<Records><xsl:value-of select="1" /></Records>
 	</Header>
 	<Fish>
 		<Name><xsl:value-of select="fullname" /></Name>
 		<DOB><xsl:value-of select="dob" /></DOB>
 		<Type><xsl:value-of select="type" /></Type>
-		<Address home = <xsl:value-of select="home" />>
+		<Address id = "home">
 			<Ocean><xsl:value-of select="ocean" /></Ocean>
 			<Reef><xsl:value-of select="reef" /></Reef>
 			<Depth><xsl:value-of select="depth" /></Depth>

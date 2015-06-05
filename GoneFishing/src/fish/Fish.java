@@ -6,8 +6,11 @@ public class Fish {
 	private FishAddress address;
 	private FishInfo	info;
 	
+	public Fish(){
+		
+	}
 	
-	public Fish(String first, String middle, String last, LocalDate dob, FishType classification
+	public void loadFish(String first, String middle, String last, LocalDate dob, FishType classification
 			, String ocean, String reef, int depth, boolean isHome){
 		this.info = new FishInfo(first, middle, last, dob, classification);
 		this.address = new FishAddress( ocean, reef, depth, isHome);

@@ -20,4 +20,13 @@
 <property name="jdbcTemplate" ref="jdbcTemplate"></property>
 </bean>
 
+<bean id="xmlEnc" class="fishXML.EncodeXML">
+</bean>
+
+<bean id="xslStyle" class="fishXML.StyleXSL">
+</bean>
+
+<bean id="fishObj" class="fish.Fish">
+</bean>
+
 </beans>
